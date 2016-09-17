@@ -20,8 +20,7 @@ div#d2 > div{
   background-color:maroon;
 }
 div#d3 > div{
-  text-align: right;
-  
+  text-align: right; 
   background-color:green;
 }
 
@@ -34,7 +33,7 @@ div#d3 > div{
 #d3{
   background-color:white;
 }
-#p1{
+/*#p1{
   background-color:red;
 }
 #p2{
@@ -42,7 +41,7 @@ div#d3 > div{
 }
 #p3{
   background-color:black;
-}
+}*/
 .row {
   width: 100%;
 }
